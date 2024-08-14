@@ -1,0 +1,19 @@
+.iban_input_attempts_list_item {
+  margin-bottom: 10px;
+}
+
+.iban_input_attempts_list_item_circle {
+    display: inline-block;
+  border-radius: 50%;
+  width: 10px;
+  height: 10px;
+  margin-right: 10px;
+}
+.iban_input_attempts_list_item_circle-green {
+  color: green;
+  background-color: green;
+}
+.iban_input_attempts_list_item_circle-red {
+  color: red;
+  background-color: red;
+}
